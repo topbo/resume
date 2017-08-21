@@ -6,4 +6,5 @@ PC端请在Chrome浏览器的开发者模式下打开手机浏览模式<br>
 * jquery
 * jquery.fullpage.js
 * animate.css
+* 组件式开发
 
